@@ -36,7 +36,7 @@ fontLoader.load(
 
         // Text
         const textGeometry = new TextGeometry(
-            'Hello Maddie',
+            'Hello BITCH',
             {
                 font: font,
                 size: 0.5,
