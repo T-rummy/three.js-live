@@ -36,7 +36,7 @@ fontLoader.load(
 
         // Text
         const textGeometry = new TextGeometry(
-            'Hello Stinky Boys',
+            'What up Christian, bby boy!',
             {
                 font: font,
                 size: 0.5,
